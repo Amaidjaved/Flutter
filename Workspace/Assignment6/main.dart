@@ -1,6 +1,6 @@
-import 'dart:io';
+// import 'dart:io';
 
-void main() {
+// void main() {
   // Question no 1
   // int count = 0;
   // while (count < 10) {
@@ -68,8 +68,8 @@ void main() {
   // }
 
   // Question no 7
-  print("Entre a number 5,9 or 81");
-  int tNum = int.parse(stdin.readLineSync()!);
+  // print("Entre a number 5,9 or 81");
+  // int tNum = int.parse(stdin.readLineSync()!);
 
   // Question no 8
-}
+// }
